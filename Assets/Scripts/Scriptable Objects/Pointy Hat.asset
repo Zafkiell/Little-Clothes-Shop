@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06e549fc80ed37f4399dc3ccd1a68b4c, type: 3}
+  m_Name: Pointy Hat
+  m_EditorClassIdentifier: 
+  itemSprite: {fileID: 21300000, guid: dd7aa45f1879d5b40894dabda58d6321, type: 3}
+  itemAnimController: {fileID: 9100000, guid: 20a1499851fd80a488a3779125f24c60, type: 2}
+  itemType: Hat
